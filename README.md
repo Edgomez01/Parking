@@ -206,7 +206,7 @@ Le dice a SWIG qué clases y funciones exponer a Python:
 1. Abrir **"x64 Native Tools Command Prompt for VS 2022"**
 2. Navegar a tu carpeta:
    ```cmd
-   cd "C:\Users\USUARIO CAB\Desktop\STEFFI\Amigue"
+   cd "C:\Users\USUARIO CAB\Desktop\PARQUEADERO\parking"
    ```
 3. Ejecutar:
    ```cmd
@@ -301,7 +301,7 @@ Amigue/
 1. Abrir **"x64 Native Tools Command Prompt for VS 2022"**
 2. Navegar a la carpeta:
    ```cmd
-   cd "C:\Users\USUARIO CAB\Desktop\STEFFI\Amigue"
+   cd "C:\Users\USUARIO CAB\Desktop\PARQUEADERO\parking"
    ```
 3. Ejecutar:
    ```cmd
@@ -384,7 +384,7 @@ El sistema tiene **3 componentes** que deben ejecutarse en orden específico:
 **Terminal 1** - PowerShell o CMD:
 
 ```powershell
-cd "C:\Users\USUARIO CAB\Desktop\STEFFI\Amigue"
+cd "C:\Users\USUARIO CAB\Desktop\PARQUEADERO\parking"
 .\servidor_multicliente.exe
 ```
 
@@ -431,7 +431,7 @@ Abriendo visualizador...
 **Terminal 3** - PowerShell nueva:
 
 ```powershell
-cd "C:\Users\USUARIO CAB\Desktop\STEFFI\Amigue"
+cd "C:\Users\USUARIO CAB\Desktop\PARQUEADERO\parking"
 .\cliente.exe
 ```
 
@@ -744,6 +744,14 @@ Si encuentras problemas:
 4. Asegurarse de usar x64 Native Tools Prompt para compilación
 
 ---
+
+DIAGRAMA UML
+
+<img width="887" height="545" alt="image" src="https://github.com/user-attachments/assets/3b835fce-2224-4dde-8ede-6365da131d58" />
+
+
+
+
 
 **Última actualización**: Noviembre 2024  
 **Versión del documento**: 1.0  
